@@ -1,2 +1,2 @@
 # Org-B
-Repository created for Organização de Computação class - UFRGS
+Repository created for Organização de Computadores class - UFRGS
